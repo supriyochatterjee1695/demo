@@ -18,7 +18,7 @@ MarkupSafe==2.1.5
 nest-asyncio==1.6.0
 numpy==1.26.4
 openpyxl==3.1.2
-packaging==24.0
+packaging
 pandas==2.2.1
 plotly==5.20.0
 python-dateutil==2.9.0.post0
